@@ -18,3 +18,5 @@ def engage
   puts state_log("10")
   
 end
+
+engage
